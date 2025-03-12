@@ -14,10 +14,9 @@
   
   ## 🧱 Tech Stack
   ### Language
+  <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>
   <br/>
   
   ### Library
@@ -28,6 +27,8 @@
   <br/>
   
   ### Framework
+  <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-#59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
 
   <br/>
   
