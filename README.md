@@ -38,9 +38,9 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skfkfh)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Two_Easy)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skfkfh)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Two_Easy)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
